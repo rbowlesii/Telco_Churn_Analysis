@@ -1,9 +1,9 @@
 # Telco Churn Analysis
 
-This project explores churn for a telecommunications company, Telco. The goal is to identitfy high-risk customer groups, identify churn drivers, and advise on potential business solutions.
+This project explores churn for a telecommunications company, Telco. The goal is to identify high-risk customer groups, explore churn drivers, and advise on potential business solutions.
 
 
-## Features
+## Tools Used
 
 - Python
 - Pandas
